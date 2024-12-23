@@ -9,7 +9,7 @@ This project is a simplified web crawler designed for identifying product-like U
 ### **1. Clone the Repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/arpansahu/e_commerce_web_crawler.git
 cd e_commerce_crawler
 ```
 
