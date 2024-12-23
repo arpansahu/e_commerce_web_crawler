@@ -1,0 +1,13 @@
+{
+    "amazon.in": [
+        "/dp/[0-9]+",
+        "/dp/[A-Za-z0-9_-]+"
+    ],
+    "amazon.com": [
+        "/product/[A-Za-z0-9_-]+",
+        "/dp/[A-Za-z0-9_-]+"
+    ],
+    "flipkart.com": [
+        "/p/[A-Za-z0-9_-]+"
+    ]
+}

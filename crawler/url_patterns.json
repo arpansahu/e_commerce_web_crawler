@@ -1,0 +1,28 @@
+{
+    "amazon.in": [
+        "/dp/[A-Z0-9]+",
+        "/gp/product/[A-Z0-9]+",
+        "/dp/[A-Z0-9]+.*",
+        "/gp/product/[A-Z0-9]+.*"
+    ],
+    "flipkart.com": [
+        "/p/itm[0-9a-zA-Z]+"
+    ],
+    "myntra.com": [
+        ".*/[0-9]+/buy$"
+    ],
+    "bewakoof.com": [
+        "/p/.+$"
+    ],
+    "tatacliq.com": [
+        ".*/p-[a-z0-9]+$"
+    ],
+    "ajio.com": [
+        ".*/p/[0-9a-zA-Z_]+$"
+    ],
+    "generic": [
+        "/[a-zA-Z0-9_-]+\\.html",
+        "/[a-zA-Z0-9_-]+/[a-zA-Z0-9_-]+",
+        "/[a-zA-Z0-9_-]+"
+    ]
+}
